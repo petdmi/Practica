@@ -48,7 +48,8 @@ for element in "!".join(map(,l)):
 #     cnt+=1
 
 #####################################################
-
+##Testing GIT - commit, push, pull, etc
 print('Hello World')
 print('Testing Git 3 time')
 print('Testing Commit and Push')
+print("Checkout From Merge to feature/TEST-1")
