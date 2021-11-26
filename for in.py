@@ -59,3 +59,4 @@ print("Checkout From Merge to feature/TEST-1")
 #git commit
 ##############################################################################
 print("FIRST")
+print("SECOND")
