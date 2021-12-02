@@ -58,3 +58,14 @@ print("Checkout From Merge to feature/TEST-1")
 #git push
 #git commit
 
+
+##################################################
+#git Log
+#git cherry-pick
+#git reset --hard 7f8f5d9376140c1a5dca57e58ca8e2a4da34ac99
+#git push --force
+#git branch -D some_new_branch
+#git push origin --delete some_new_branch
+###################################################
+
+
