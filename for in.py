@@ -58,3 +58,6 @@ print("Checkout From Merge to feature/TEST-1")
 #git push
 #git commit
 
+#################
+print('First Stroke')
+print("Third stroke")
