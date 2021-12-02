@@ -69,3 +69,6 @@ print("Checkout From Merge to feature/TEST-1")
 ###################################################
 
 
+print("1")
+print("2")
+print("3")
