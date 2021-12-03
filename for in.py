@@ -49,27 +49,12 @@ for element in "!".join(map(,l)):
 
 #####################################################
 ##Testing GIT - commit, push, pull, etc
-
+print('Hello World')
 print('Testing Git 3 time')
-print('Testing Commit and Push')
+gitprint('Testing Commit and Push')
 print("Checkout From Merge to feature/TEST-1")
 #git branch - проверить на какой ветке мы находимся в данный момент
 #git checkout -b feature/TEST-1 - мы перенсли с ветки main на ветку feature/TEST-1
 #git push
 #git commit
 
-
-##################################################
-#git Log
-#git cherry-pick
-#git reset --hard 7f8f5d9376140c1a5dca57e58ca8e2a4da34ac99
-#git push --force
-#git branch -D some_new_branch
-#git push origin --delete some_new_branch
-###################################################
-
-
-print("1")
-print("3")
-print("4")
-print("5")
